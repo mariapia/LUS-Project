@@ -1,0 +1,6315 @@
+BOS O O
+movies_movie O O
+from_from O O
+scotland_scotland B-country.name B-country.name
+EOS O O
+
+BOS O O
+budget_budget O O
+for_for O O
+the_the B-movie.name B-movie.name
+avengers_avenger I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+director_director O O
+of_of O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+the_the O O
+country_country O O
+where_where O O
+nobody_nobody B-movie.name O
+knows_know I-movie.name O
+takes_take O O
+place_place O O
+EOS O O
+
+BOS O O
+frank_frank B-director.name O
+capra_capra I-director.name O
+movies_movie O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+the_the O O
+rating_rating O O
+EOS O O
+
+BOS O O
+gross_gross O O
+earnings_earning O O
+for_for O O
+movies_movie O B-movie.name
+EOS O O
+
+BOS O O
+get_get O O
+the_the O O
+video_video O O
+of_of O O
+finding_find B-movie.name B-movie.name
+nemo_Nemo I-movie.name I-movie.name
+twenty_twenty B-movie.release_date B-movie.release_date
+oh_oh I-movie.release_date I-movie.release_date
+three_three I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+what_what O O
+did_do O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+cost_cost O O
+to_to O O
+make_make O O
+EOS O O
+
+BOS O O
+did_do O O
+rob_rob B-director.name O
+reiner_Reiner I-director.name O
+direct_direct O O
+any_any O O
+movies_movie O O
+EOS O O
+
+BOS O O
+alfred_Alfred B-director.name B-director.name
+hitchcock_Hitchcock I-director.name I-director.name
+'s_'s O O
+best_good O O
+films_film O O
+EOS O O
+
+BOS O O
+what_what O O
+films_film O O
+has_have O O
+selena_selena B-actor.name O
+gomez_gomez I-actor.name O
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+who_who O O
+made_make O O
+steel_steel B-movie.name B-movie.name
+magnolias_magnolia I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+release_release O O
+date_date O O
+for_for O O
+little_little B-movie.name B-movie.name
+women_woman I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+date_date O O
+does_do O O
+omg_omg B-movie.name B-movie.name
+oh_oh I-movie.name I-movie.name
+my_my I-movie.name I-movie.name
+god_god I-movie.name I-movie.name
+!_! I-movie.name I-movie.name
+come_come O O
+out_out O O
+EOS O O
+
+BOS O O
+who_who O O
+produced_produce O O
+the_the O O
+movie_movie O O
+caddy_caddy B-movie.name O
+shack_shack I-movie.name O
+EOS O O
+
+BOS O O
+i_i O O
+hope_hope O O
+this_this O O
+movie_movie O O
+would_would O O
+be_be O O
+in_in O O
+english_English B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+details_detail O O
+about_about O O
+the_the O O
+directors_director O O
+of_of O O
+gone_go B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+wind_wind I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+life_life B-movie.name B-movie.name
+is_be I-movie.name I-movie.name
+beautiful_beautiful I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+movies_movie O O
+directed_direct O O
+by_by O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+release_release O O
+date_date O O
+of_of O O
+the_the O O
+movie_movie O O
+barfi_barfi B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+please_please O O
+open_open O O
+page_page O O
+about_about O O
+in_in B-movie.name B-movie.name
+july_july I-movie.name I-movie.name
+movie_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+other_other O O
+movies_movie O O
+has_have O O
+bill_bill B-actor.name B-actor.name
+paxton_paxton I-actor.name I-actor.name
+starred_star O O
+in_in O O
+EOS O O
+
+BOS O O
+houses_house O O
+on_on O O
+streets_street O O
+EOS O O
+
+BOS O O
+director_director O O
+for_for O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+does_do O O
+italy_italy B-country.name B-movie.subject
+make_make O O
+any_any O O
+movies_movie O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+some_some O O
+names_name O O
+of_of O O
+japanese_Japanese B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+mexican_Mexican B-country.name O
+films_film O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+from_from O O
+india_india B-country.name B-country.name
+EOS O O
+
+BOS O O
+info_info O O
+hitch_hitch B-movie.name B-movie.name
+producer_producer O O
+EOS O O
+
+BOS O O
+after_after O O
+watching_watch O O
+this_this O O
+movie_movie O O
+will_will O O
+i_i O O
+have_have O O
+nightmares_nightmare O O
+about_about O O
+it_it O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+hum_hum B-movie.name B-movie.name
+tum_tum I-movie.name I-movie.name
+relesed_relesed O I-movie.name
+EOS O O
+
+BOS O O
+do_do O O
+you_you O O
+have_have O O
+a_a O O
+list_list O O
+of_of O O
+japanese_Japanese B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+twilight_twilight B-movie.name B-movie.name
+revenue_revenue O O
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+watch_watch O O
+movies_movie O O
+that_that O O
+are_be O O
+spoken_speak O O
+in_in O O
+spanish_Spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+the_the O O
+director_director O O
+of_of O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+by_by O O
+box-office_box-office O O
+rating_rating O O
+EOS O O
+
+BOS O O
+show_show O O
+director_director O O
+clint_clint B-director.name B-actor.name
+eastwood_eastwood I-director.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+type_type O O
+of_of O O
+movie_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+is_be O O
+spoken_speak O O
+in_in O O
+indochine_indochine B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+the_the O O
+producer_producer O O
+of_of O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the O O
+producer_producer O O
+for_for O O
+the_the B-movie.name B-movie.name
+amazing_amazing I-movie.name I-movie.name
+spiderman_spiderman I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+french_French B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+how_how O O
+long_long O O
+has_have O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+been_be O O
+out_out O O
+EOS O O
+
+BOS O O
+show_show O O
+movie_movie O O
+ratings_rating O O
+EOS O O
+
+BOS O O
+movies_movie O O
+with_with O O
+sandra_sandra B-actor.name B-actor.name
+bullock_bullock I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+i_i O O
+'m_be O O
+looking_look O O
+for_for O O
+the_the O O
+cost_cost O O
+of_of O O
+some_some O O
+movies_movie O O
+EOS O O
+
+BOS O O
+des_des O O
+ireland_Ireland B-country.name O
+have_have O O
+any_any O O
+movie_movie O O
+festivals_festival O O
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+the_the O O
+top_top O O
+grossing_gross O O
+movies_movie O O
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+movies_movie O O
+about_about O O
+hair_hair B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+who_who O O
+'s_be O O
+the_the O O
+producer_producer O O
+EOS O O
+
+BOS O O
+who_who O O
+produced_produce O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+in_in O O
+french_French B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+movies_movie O O
+directed_direct O O
+by_by O O
+tyler_tyler B-director.name B-director.name
+perry_perry I-director.name I-director.name
+EOS O O
+
+BOS O O
+bald_bald O O
+male_male O O
+actors_actor O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+some_some O O
+movies_movie O O
+that_that O O
+have_have O O
+pg-13_pg-13 B-rating.name B-rating.name
+rating_rating O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+find_find O O
+movies_movie O O
+with_with O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+EOS O O
+
+BOS O O
+best_good O O
+space_space B-movie.subject O
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+on_on O O
+gardening_gardening B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+difference_difference O O
+between_between O B-movie.release_date
+rated_rate O O
+nr_nr B-rating.name B-rating.name
+and_and O O
+r_r B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+genre_genre O O
+for_for O O
+the_the B-movie.name B-movie.name
+avengers_avenger I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+the_the O O
+movie_movie O O
+gilda_gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+general_general O O
+information_information O O
+on_on O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+see_see O O
+what_what O O
+movies_movie O O
+steven_steven B-director.name B-actor.name
+spielberg_Spielberg I-director.name I-actor.name
+has_have O O
+done_do O O
+EOS O O
+
+BOS O O
+find_find O O
+me_me O O
+nc-17_nc-17 B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+only_only O O
+rated_rate O O
+r_r B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+canadian_Canadian B-country.name B-country.name
+films_film O O
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+movies_movie O O
+produced_produce O O
+by_by O O
+albert_albert B-producer.name B-producer.name
+ruddy_ruddy I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+list_list O O
+the_the O O
+budget_budget O O
+for_for O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+where_where O O
+released_release O O
+in_in O O
+aug_Aug B-movie.release_date O
+of_of I-movie.release_date O
+twenty_twenty I-movie.release_date B-movie.release_date
+eleven_eleven I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+woody_woody B-director.name B-director.name
+allen_allen I-director.name I-director.name
+films_film O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+did_do O B-movie.name
+dark_dark B-movie.name I-movie.name
+night_night I-movie.name I-movie.name
+make_make O O
+at_at O O
+the_the O O
+box_box O O
+office_office O O
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+all_all O O
+the_the O O
+movies_movie O O
+to_to O O
+come_come O O
+out_out O O
+of_of O O
+france_france B-country.name B-country.name
+EOS O O
+
+BOS O O
+what_what O O
+has_have O O
+brad_brad B-director.name B-director.name
+pitt_pitt I-director.name I-director.name
+directed_direct O O
+EOS O O
+
+BOS O O
+click_click O O
+on_on O O
+the_the O O
+orang_orang O O
+information_information O O
+EOS O O
+
+BOS O O
+show_show O O
+jason_jason B-actor.name B-actor.name
+statham_statham I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the O O
+main_main O O
+actor_actor O O
+in_in O O
+the_the B-movie.name O
+exorcist_exorcist I-movie.name O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+for_for O O
+angelina_angelina B-actor.name B-actor.name
+jolie_jolie I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+see_see O O
+movies_movie O O
+from_from O O
+india_india B-country.name B-country.name
+EOS O O
+
+BOS O O
+cast_cast O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+language_language O O
+of_of O O
+the_the O O
+film_film O O
+revanche_revanche B-movie.name O
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+get_get O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+available_available O O
+in_in O O
+english_English B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the O O
+lead_lead O O
+in_in O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+some_some O O
+films_film O O
+produced_produce O O
+by_by O O
+jon_jon B-producer.name O
+landau_landau I-producer.name O
+EOS O O
+
+BOS O O
+grayscale_grayscale O O
+EOS O O
+
+BOS O O
+when_when O O
+is_be O O
+sinister_sinister B-movie.name O
+hitting_hit O O
+theaters_theater O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+revenue_revenue O O
+made_make O O
+from_from O O
+the_the O O
+movie_movie O O
+great_great B-movie.name O
+debaters_debater I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+cast_cast O O
+and_and O O
+crew_crew O O
+for_for O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+kristen_kristen B-person.name B-person.name
+stewart_stewart I-person.name I-person.name
+EOS O O
+
+BOS O O
+display_display O O
+movies_movie O O
+on_on O O
+gardening_gardening B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+find_find O O
+the_the O O
+movie_movie O O
+hum_hum B-movie.name B-movie.name
+tum_tum I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+love_love O O
+to_to O O
+see_see O O
+a_a O O
+movie_movie O O
+about_about O O
+esp_esp B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+the_the B-movie.name O
+godfather_godfather I-movie.name I-movie.name
+came_come O O
+out_out O O
+when_when O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+money_money O O
+did_do O O
+this_this O O
+movie_movie O O
+accumalate_accumalate O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+revenue_revenue O O
+created_create O O
+by_by O O
+the_the B-movie.name O
+expendables_expendable I-movie.name B-movie.name
+2_2 I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+paramount_paramount B-producer.name B-producer.name
+-_- O I-producer.name
+do_do O O
+you_you O O
+pay_pay O O
+all_all O O
+the_the O O
+expenses_expense O O
+for_for O O
+the_the O O
+stand_stand O O
+byes_bye O O
+EOS O O
+
+BOS O O
+steven_Steven B-person.name B-person.name
+spielberg_Spielberg I-person.name I-person.name
+bio_bio O O
+EOS O O
+
+BOS O O
+who_who O O
+does_do O O
+ellen_ellen B-actor.name O
+degeneres_degeneres I-actor.name O
+play_play O O
+in_in O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+ondskan_ondskan B-movie.name O
+'s_'s O O
+language_language O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+other_other O O
+movies_movie O O
+produced_produce O O
+by_by O O
+james_james B-producer.name B-producer.name
+cameron_cameron I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+in_in O O
+movie_movie O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+tell_tell O O
+me_me O O
+the_the O O
+budget_budget O O
+for_for O O
+cabin_cabin I-movie.name I-movie.name
+in_in I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+woods_wood I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+tell_tell O O
+me_me O O
+the_the O O
+director_director O O
+of_of O O
+the_the O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+a_a O O
+list_list O O
+of_of O O
+g_g B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+japanese_Japanese B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+was_be O O
+will_will B-actor.name B-actor.name
+smith_smith I-actor.name I-actor.name
+in_in O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+is_be O O
+this_this O O
+movie_movie O O
+german_german B-country.name B-movie.language
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+back_back B-movie.name B-movie.name
+to_to I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+future_future I-movie.name I-movie.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+not_not O O
+rated_rate O O
+label_label O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+english_English B-movie.language B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+french_French B-movie.language B-movie.language
+language_language I-movie.language I-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+avatar_avatar B-movie.name B-movie.name
+release_release O O
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+find_find O O
+the_the O O
+producers_producer O O
+of_of O O
+the_the B-movie.name B-movie.name
+lion_lion I-movie.name I-movie.name
+king_king I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+july_july O O
+EOS O O
+
+BOS O O
+find_find O O
+dreamworks_dreamworks B-producer.name B-producer.name
+movies_movie O O
+for_for B-rating.name O
+kids_kid I-rating.name O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+look_look O O
+up_up O O
+movies_movie O O
+about_about O O
+dancing_dancing B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+language_language O O
+of_of O O
+my_my B-movie.name O
+annette_annette I-movie.name O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+rating_rating O O
+for_for O O
+marley_marley B-movie.name B-movie.name
+and_and I-movie.name I-movie.name
+me_me I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+many_many O O
+films_film O O
+did_do O O
+ed_editor B-actor.name B-actor.name
+harris_harris I-actor.name I-actor.name
+do_do O O
+with_with O O
+tom_tom B-actor.name B-actor.name
+hanks_hank I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+in_in O O
+barfi_barfi B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+looking_look O O
+for_for O O
+the_the O O
+actor_actor O O
+that_that O O
+played_play O O
+in_in O O
+pretty_pretty B-movie.name B-movie.name
+women_woman I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+find_find O O
+movies_movie O O
+rated_rate O O
+r_r B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+view_view O O
+info_info O O
+on_on O O
+life_life B-movie.name B-movie.name
+is_be I-movie.name I-movie.name
+beautiful_beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+all_all O O
+horror_horror B-movie.genre B-movie.genre
+movies_movie O O
+that_that O O
+me_me O O
+out_out O O
+in_in O O
+twenty_twenty B-movie.release_date B-movie.release_date
+twelve_twelve I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+info_info O O
+on_on O O
+the_the O O
+movie_movie O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+please_please O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+find_find O O
+me_me O O
+movies_movie O O
+in_in O O
+russian_Russian B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+great_great O O
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+produced_produce O O
+the_the O O
+movie_movie O O
+mirror_mirror B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+pictures_picture O O
+of_of O O
+famous_famous O O
+blondes_blonde O B-movie.release_date
+EOS O O
+
+BOS O O
+i_i O O
+love_love O O
+alfred_alfred B-person.name B-person.name
+hitchcock_hitchcock I-person.name I-person.name
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+the_the B-movie.name B-movie.name
+hunger_hunger I-movie.name I-movie.name
+games_game I-movie.name I-movie.name
+in_in O O
+korean_Korean B-movie.language B-country.name
+EOS O O
+
+BOS O O
+looper_looper B-movie.name B-movie.name
+directors_director O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+money_money O O
+did_do O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+make_make O O
+EOS O O
+
+BOS O O
+which_which O O
+company_company O O
+produced_produce O O
+the_the B-movie.name B-movie.name
+terminator_terminator I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+media_medium O O
+has_have O O
+lionsgate_lionsgate B-producer.name B-producer.name
+done_do O O
+EOS O O
+
+BOS O O
+in_in B-movie.name B-movie.name
+july_july I-movie.name I-movie.name
+information_information O O
+EOS O O
+
+BOS O O
+get_get O O
+a_a O O
+list_list O O
+of_of O O
+animated_animated B-movie.genre O
+films_film O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+hillary_hillary B-actor.name O
+duff_duff I-actor.name O
+has_have O O
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+directed_direct O O
+by_by O O
+stephen_stephen B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+interested_interested O O
+in_in O O
+the_the O O
+genre_genre O O
+for_for O O
+1000_@card@ B-movie.name B-movie.name
+words_word I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+director_director O O
+of_of O O
+the_the O O
+movie_movie O O
+avengers_avenger B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+did_do O O
+the_the B-movie.name B-movie.name
+dark_dark I-movie.name I-movie.name
+night_night I-movie.name I-movie.name
+cost_cost O O
+to_to O O
+produce_produce O O
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+movies_movie O O
+in_in O O
+italian_Italian B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+know_know O O
+in_in O O
+what_what O O
+language_language O O
+was_be O O
+ju_ju B-movie.name B-movie.name
+on_on I-movie.name I-movie.name
+filmed_film O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+are_be O O
+in_in O O
+bengali_bengali B-movie.language O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+related_relate O O
+movies_movie O O
+like_like O O
+in_in B-movie.name B-movie.name
+july_July I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+most_most O O
+popular_popular O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+movie_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+did_do O O
+stephen_stephen B-director.name B-director.name
+king_king I-director.name I-director.name
+direct_direct O O
+EOS O O
+
+BOS O O
+show_show O O
+all_all O O
+movies_movie O O
+by_by O O
+paramount_paramount B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+how_how O O
+old_old O O
+is_be O O
+kristen_kristen B-person.name B-person.name
+stewart_stewart I-person.name I-person.name
+EOS O O
+
+BOS O O
+how_how O O
+is_be O O
+the_the O O
+movie_movie O O
+classified_classify O O
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+is_be O O
+shindler_Shindler B-movie.name O
+'s_'s I-movie.name O
+list_list I-movie.name O
+in_in O O
+EOS O O
+
+BOS O O
+name_name O O
+all_all O O
+of_of O O
+the_the O O
+movies_movie O O
+john_john B-director.name O
+singleton_singleton I-director.name B-director.name
+has_have O O
+directed_direct O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+know_know O O
+all_all O O
+the_the O O
+comedies_comedy B-movie.genre B-movie.genre
+that_that O O
+warner_warner B-producer.name B-producer.name
+brothers_brother I-producer.name I-producer.name
+made_make O O
+in_in O O
+twenty_twenty B-movie.release_date B-movie.release_date
+eleven_eleven I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+movies_movie O O
+about_about O O
+dancing_dancing B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+r_r B-rating.name B-rating.name
+rated_rate O O
+movies_movie O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+money_money O O
+did_do O O
+shrek_shrek B-movie.name B-movie.name
+bring_bring O O
+in_in O O
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+the_the O O
+release_release O O
+date_date O O
+of_of O O
+resident_resident B-movie.name B-movie.name
+evil_evil I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+genre_genre O O
+EOS O O
+
+BOS O O
+movies_movie O O
+regarding_regard O O
+the_the B-movie.subject O
+hobby_hobby I-movie.subject O
+of_of I-movie.subject O
+chess_chess I-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+reviews_review O O
+of_of O O
+movie_movie O O
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+movies_movie O O
+starring_star O O
+the_the O O
+singer_singer B-actor.type O
+mario_mario B-actor.name O
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+the_the O O
+guy_guy O O
+who_who O O
+played_play O O
+the_the O O
+red_red B-character.name O
+ranger_ranger I-character.name O
+in_in O O
+power_power B-movie.name O
+rangers_ranger I-movie.name O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+has_have O O
+tom_tom B-actor.name B-actor.name
+cruise_cruise I-actor.name I-actor.name
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+movies_movie O O
+in_in O O
+france_france B-movie.location B-country.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+movies_movie O O
+produced_produce O O
+by_by O O
+clint_clint B-producer.name B-producer.name
+eastwood_eastwood I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+the_the O O
+budget_budget O O
+of_of O O
+freedom_freedom B-movie.name B-movie.name
+writers_writer I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+genre_genre O O
+of_of O O
+the_the O O
+movie_movie O O
+lawless_lawless B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+han_han B-character.name O
+solo_solo I-character.name O
+EOS O O
+
+BOS O O
+learn_learn O O
+more_more O O
+about_about O O
+kristen_kristen B-person.name B-person.name
+stewart_stewart I-person.name I-person.name
+EOS O O
+
+BOS O O
+find_find O O
+zombie_zombie B-movie.subject B-movie.subject
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+r_r B-rating.name B-rating.name
+rated_rate O O
+movies_movie O O
+EOS O O
+
+BOS O O
+tell_tell O O
+me_me O O
+the_the O O
+director_director O O
+of_of O O
+the_the O O
+film_film O O
+the_the B-movie.name B-movie.name
+dark_dark I-movie.name I-movie.name
+knight_knight I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+male_male O O
+lead_lead O O
+in_in O O
+the_the O O
+movie_movie O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+movie_movie O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+about_about O O
+EOS O O
+
+BOS O O
+movie_movie O O
+made_make O O
+where_where O O
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+movies_movie O O
+starring_star O O
+the_the O O
+singer_singer B-actor.type O
+mario_mario B-actor.name O
+EOS O O
+
+BOS O O
+rating_rating O O
+for_for O O
+transylvania_transylvania B-movie.name O
+EOS O O
+
+BOS O O
+what_what O O
+genre_genre O O
+is_be O O
+rambo_rambo B-movie.name O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+produced_produce O O
+by_by O O
+morgan_morgan B-producer.name B-producer.name
+freeman_freeman I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+show_show O O
+movies_movie O O
+done_do O O
+by_by O O
+7_7 B-producer.name O
+arts_art I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+gilda_Gilda B-movie.name O
+'s_'s O O
+credits_credit O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+from_from O O
+the_the O O
+nineteen_nineteen B-movie.release_date B-movie.release_date
+fifties_fifty I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+know_know O O
+more_more O O
+about_about O O
+the_the O O
+movie_movie O O
+life_life B-movie.name B-movie.name
+is_be I-movie.name I-movie.name
+beautiful_beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+lionsgate_lionsgate B-producer.name B-producer.name
+movies_movie O O
+for_for O O
+twenty_twenty B-movie.release_date B-movie.release_date
+thirteen_thirteen I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+by_by O O
+producer_producer O O
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+the_the O O
+music_music O O
+in_in O O
+gone_go B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+wind_wind I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+rating_rating O O
+for_for O O
+the_the O O
+movie_movie O O
+ants_ant B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+video_video O O
+clips_clip O O
+have_have O O
+will_will B-actor.name B-person.name
+ferrell_ferrell I-actor.name I-person.name
+EOS O O
+
+BOS O O
+budget_budget O O
+for_for O O
+twilight_twilight B-movie.name B-movie.name
+breaking_break I-movie.name I-movie.name
+dawn_dawn I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+would_would O O
+you_you O O
+try_try O O
+to_to O O
+make_make O O
+a_a O O
+sequal_sequal O O
+EOS O O
+
+BOS O O
+find_find O O
+spanish_Spanish B-movie.language B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+rating_rating O O
+for_for O O
+house_house B-movie.name B-movie.name
+at_at I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+end_end I-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+street_street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get_get O O
+me_me O O
+the_the O O
+think_think B-movie.name B-movie.name
+like_like I-movie.name I-movie.name
+a_a I-movie.name I-movie.name
+man_man I-movie.name I-movie.name
+movie_movie O O
+producer_producer O O
+EOS O O
+
+BOS O O
+who_who O O
+plays_play O O
+nemo_nemo B-character.name O
+in_in O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+know_know O O
+about_about O O
+some_some O O
+famous_famous O O
+movies_movie O O
+by_by O O
+director_director O O
+martin_martin B-director.name B-director.name
+scorsese_scorsese I-director.name I-director.name
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+avatar_avatar B-movie.name B-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+revenue_revenue O O
+from_from O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+about_about O O
+vietnam_Vietnam B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+movie_movie O O
+short_short O B-movie.genre
+cuts_cut O O
+EOS O O
+
+BOS O O
+what_what O O
+character_character O O
+did_do O O
+will_will B-actor.name B-actor.name
+smith_smith I-actor.name I-actor.name
+play_play O O
+in_in O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+funnie_funnie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+from_from O O
+paris_paris B-movie.location B-movie.location
+EOS O O
+
+BOS O O
+tom_tom B-actor.name B-actor.name
+hanks_hank I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+a_a O O
+movie_movie O O
+based_base O O
+on_on O O
+time_time B-movie.subject B-movie.subject
+travel_travel I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+what_what O O
+genre_genre O O
+is_be O O
+network_network B-movie.name B-movie.name
+in_in O O
+EOS O O
+
+BOS O O
+trouble_trouble B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+curve_curve I-movie.name I-movie.name
+profit_profit O O
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+the_the B-movie.name B-movie.name
+sound_sound I-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+music_music I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+the_the O O
+budget_budget O O
+for_for O O
+facing_face B-movie.name O
+the_the I-movie.name O
+giants_giant I-movie.name O
+EOS O O
+
+BOS O O
+list_list O O
+rating_rating O O
+g_g B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+get_get O O
+me_me O O
+the_the O O
+name_name O O
+of_of O O
+who_who O O
+directed_direct O O
+the_the B-movie.name O
+master_master I-movie.name O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+mystery_mystery B-movie.genre O
+movies_movie O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+did_do O O
+hollywood_hollywood O O
+pay_pay O O
+for_for O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+know_know O O
+names_name O O
+of_of O O
+some_some O O
+movies_movie O O
+related_relate O O
+with_with O O
+gardening_gardening B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+zombies_zombie O O
+info_info O O
+EOS O O
+
+BOS O O
+i_i O O
+'d_will O O
+like_like O O
+to_to O O
+watch_watch O O
+something_something O O
+with_with O O
+drama_drama B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+when_when O O
+will_will O O
+the_the O O
+movie_movie O O
+frankenstein_frankenstein B-movie.name B-movie.name
+be_be O O
+released_release O O
+EOS O O
+
+BOS O O
+i_i O O
+only_only O O
+want_want O O
+to_to O O
+see_see O O
+movies_movie O O
+in_in O O
+german_german B-movie.language B-country.name
+EOS O O
+
+BOS O O
+find_find O O
+me_me O O
+a_a O O
+movie_movie O O
+with_with O O
+zombies_zombie B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+the_the O O
+musical_musical O B-movie.genre
+score_score O O
+in_in O O
+barfi_barfi B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+information_information O O
+for_for O O
+the_the O O
+movie_movie O O
+title_title O O
+in_in B-movie.name B-movie.name
+july_July I-movie.name I-movie.name
+with_with O I-movie.name
+moritz_Moritz B-actor.name I-movie.name
+bleibtreu_bleibtreu I-actor.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+from_from O O
+poland_poland B-country.name O
+EOS O O
+
+BOS O O
+find_find O O
+films_film O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+know_know O O
+when_when O O
+24_@card@ B-movie.name B-movie.name
+will_will O O
+be_be O O
+released_release O O
+EOS O O
+
+BOS O O
+budget_budget O O
+for_for O O
+titanic_titanic B-movie.name B-movie.name
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+bette_bette B-actor.name B-actor.name
+midler_midler I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+when_when O O
+will_will O O
+jaws_jaw B-movie.name B-movie.name
+be_be O O
+released_release O O
+EOS O O
+
+BOS O O
+search_search O O
+director_director O O
+for_for O O
+gilda_gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+get_get O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+released_release O O
+in_in O O
+september_September B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+list_list O O
+page_page O O
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+produced_produce O O
+by_by O O
+clint_clint B-producer.name B-producer.name
+eastwood_eastwood I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+red_red B-character.name O
+ranger_ranger I-character.name O
+guy_guy I-character.name O
+in_in O O
+power_power B-movie.name O
+rangers_ranger I-movie.name O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+search_search O O
+for_for O O
+alfred_alfred B-director.name B-director.name
+hitchcock_hitchcock I-director.name I-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+complete_complete O O
+list_list O O
+of_of O O
+movies_movie O O
+made_make O O
+by_by O O
+searchlight_searchlight B-producer.name B-producer.name
+films_film I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+how_how O O
+have_have O O
+critics_critic O O
+rated_rate O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movies_movie O O
+by_by O O
+mel_mel B-director.name B-director.name
+gibson_gibson I-director.name I-director.name
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+does_do O O
+les_les B-movie.name B-movie.name
+miserable_miserable I-movie.name I-movie.name
+come_come O O
+from_from O O
+EOS O O
+
+BOS O O
+house_house B-movie.name B-movie.name
+at_at I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+end_end I-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+street_street I-movie.name I-movie.name
+movie_movie O O
+info_info O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+person_person O O
+who_who O O
+made_make O O
+et_et B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+dirty_dirty B-movie.name B-movie.name
+dan_dan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+cast_cast O O
+and_and O O
+crew_crew O O
+for_for O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+is_be O O
+the_the O O
+movie_movie O O
+in_in O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+top_top B-movie.name B-movie.name
+gun_gun I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+have_have O O
+albert_albert B-producer.name B-producer.name
+ruddy_ruddy I-producer.name I-producer.name
+produced_produce O O
+EOS O O
+
+BOS O O
+pull_pull O O
+up_up O O
+a_a O O
+ray_ray B-director.name B-director.name
+stark_stark I-director.name I-director.name
+movie_movie O O
+EOS O O
+
+BOS O O
+display_display O O
+information_information O O
+for_for O O
+the_the O O
+movie_movie O O
+in_in B-movie.name B-movie.name
+july_july I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+would_would O O
+you_you O O
+describe_describe O O
+the_the O O
+movie_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+is_be O O
+the_the O O
+father_father B-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+my_my I-movie.name I-movie.name
+children_child I-movie.name I-movie.name
+in_in O I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+was_be O O
+kinky_kinky B-movie.name O
+boots_boot I-movie.name O
+made_make O O
+in_in O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+in_in O O
+spanish_Spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+about_about O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+look_look O O
+for_for O O
+the_the O O
+director_director O O
+of_of O O
+freedom_freedom B-movie.name B-movie.name
+writers_writer I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+it_it O O
+rated_rate O O
+EOS O O
+
+BOS O O
+when_when O O
+did_do O O
+harry_harry B-movie.name B-movie.name
+potter_potter I-movie.name I-movie.name
+come_come O O
+out_out O O
+EOS O O
+
+BOS O O
+show_show O O
+a_a O O
+list_list O O
+of_of O O
+recent_recent O O
+releases_release O O
+that_that O O
+are_be O O
+rated_rate O O
+pg_pg B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+what_what O O
+did_do O O
+steven_steven B-person.name B-director.name
+spielberg_spielberg I-person.name I-director.name
+do_do O O
+before_before O O
+he_he O O
+was_be O O
+a_a O O
+director_director O O
+EOS O O
+
+BOS O O
+funny_funny B-movie.genre O
+kids_kid B-rating.name O
+movies_movie O O
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the O O
+director_director O O
+of_of O O
+the_the O O
+movie_movie O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+list_list O O
+movies_movie O O
+in_in O O
+french_French B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+find_find O O
+producer_producer O O
+of_of O O
+the_the B-movie.name B-movie.name
+great_great I-movie.name I-movie.name
+debaters_debater I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+list_list O O
+statham_statham B-actor.name B-movie.language
+'s_'s O O
+movies_movie O O
+EOS O O
+
+BOS O O
+dawn_dawn B-movie.name O
+of_of I-movie.name O
+the_the I-movie.name O
+dead_dead I-movie.name O
+movie_movie O O
+information_information O O
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+return_return B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+interested_interested O O
+in_in O O
+who_who O O
+directed_direct O O
+cabin_cabin B-movie.name B-movie.name
+in_in I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+woods_wood I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+info_info O O
+about_about O O
+jurassic_Jurassic B-movie.name B-movie.name
+park_park I-movie.name I-movie.name
+'s_'s O O
+director_director O O
+EOS O O
+
+BOS O O
+find_find O O
+anime_anime B-movie.genre O
+films_film O O
+from_from O O
+japan_japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+movies_movie O O
+with_with O O
+angelina_angelina B-actor.name B-actor.name
+jolie_jolie I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+who_who O O
+produced_produce O O
+the_the B-movie.name B-movie.name
+great_great I-movie.name I-movie.name
+debaters_debater I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+snow_snow B-movie.name B-movie.name
+white_white I-movie.name I-movie.name
+and_and I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+huntsman_huntsman I-movie.name I-movie.name
+revenue_revenue O I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+please_please O O
+list_list O O
+the_the O O
+movies_movie O O
+brad_brad B-actor.name B-actor.name
+pitt_pitt I-actor.name I-actor.name
+has_have O O
+acted_act O O
+in_in O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+are_be O O
+safe_safe B-rating.name O
+for_for I-rating.name O
+a_a I-rating.name O
+young_young I-rating.name B-movie.star_rating
+child_child I-rating.name O
+to_to I-rating.name O
+watch_watch I-rating.name O
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+see_see O O
+the_the O O
+cast_cast O O
+and_and O O
+crew_crew O O
+for_for O O
+house_house B-movie.name B-movie.name
+at_at I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+end_end I-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+street_street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get_get O O
+list_list O O
+of_of O O
+zombie_zombie B-movie.subject B-movie.subject
+movies_movie O O
+EOS O O
+
+BOS O O
+sort_sort O O
+by_by O O
+all_all O O
+brad_brad B-actor.name B-actor.name
+pitt_pitt B-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+watch_watch O O
+a_a O O
+comedy_comedy B-movie.genre B-movie.genre
+made_make O O
+in_in O O
+hungary_hungary B-country.name O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+disney_disney B-producer.name B-producer.name
+movies_movie O O
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+reviews_review O O
+for_for O O
+in_in B-movie.name B-movie.name
+july_July I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+list_list O O
+french_French B-movie.language B-movie.language
+language_language I-movie.language I-movie.language
+comedy_comedy B-movie.genre B-movie.genre
+films_film O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+about_about O O
+gambling_gambling B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+reviews_review O O
+for_for O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the O O
+lead_lead O O
+actress_actress O O
+in_in O O
+the_the B-movie.name B-movie.name
+hunger_hunger I-movie.name I-movie.name
+games_game I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+producer_producer O O
+of_of O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+in_in O O
+movie_movie O O
+EOS O O
+
+BOS O O
+will_will B-person.name B-actor.name
+ferrell_Ferrell I-person.name I-actor.name
+history_history O O
+EOS O O
+
+BOS O O
+name_name O O
+the_the O O
+producer_producer O O
+of_of O O
+the_the B-movie.name B-movie.name
+godfather_godfather I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+plot_plot O O
+of_of O O
+vulgaria_vulgaria B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+john_john B-actor.name B-actor.name
+cusack_cusack I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+name_name O O
+of_of O O
+director_director O O
+of_of O O
+the_the O O
+movie_movie O O
+platoon_platoon B-movie.name O
+EOS O O
+
+BOS O O
+list_list O O
+french_French B-country.name B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+movies_movie O O
+with_with O O
+meg_meg B-actor.name O
+ryan_ryan I-actor.name O
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+know_know O O
+names_name O O
+of_of O O
+some_some O O
+indian_Indian B-movie.language B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+me_me O O
+names_name O O
+of_of O O
+some_some O O
+indian_Indian B-movie.language B-movie.language
+romantic_romantic B-movie.genre B-movie.genre
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+shows_show O O
+about_about O O
+cars_car B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+movies_movie O O
+from_from O O
+spain_spain B-country.name B-country.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+find_find O O
+movies_movie O O
+starring_star O O
+the_the O O
+singer_singer B-actor.type O
+mario_mario B-actor.name O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+top_top O O
+rated_rate O O
+french_French B-country.name B-movie.language
+comedy_comedy B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+show_show O O
+movies_movie O O
+made_make O O
+in_in O O
+country_country O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+has_have O O
+andrew_andrew B-director.name B-director.name
+stanton_stanton I-director.name I-director.name
+directed_direct O O
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+the_the O O
+producer_producer O O
+of_of O O
+freedom_freedom B-movie.name B-movie.name
+writers_writer I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+a_a O O
+sam_sam B-director.name O
+wood_wood I-director.name O
+and_and O O
+victor_victor B-director.name B-director.name
+fleming_fleming I-director.name I-director.name
+film_film O O
+EOS O O
+
+BOS O O
+reviews_review O O
+for_for O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+find_find O O
+information_information O O
+about_about O O
+the_the O O
+cast_cast O O
+of_of O O
+apollo_apollo B-movie.name B-movie.name
+thirteen_thirteen I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+the_the O O
+information_information O O
+about_about O O
+the_the O O
+movie_movie O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+like_like O O
+story_story O O
+reviews_review O O
+cast_cast O O
+etc_etc O O
+EOS O O
+
+BOS O O
+get_get O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+with_with O O
+kristen_kristen B-actor.name B-actor.name
+stewart_stewart I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+steven_steven B-director.name B-person.name
+spielberg_spielberg I-director.name I-person.name
+pictures_picture O O
+EOS O O
+
+BOS O O
+find_find O O
+expensive_expensive O O
+movies_movie O O
+online_online O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+more_more O O
+details_detail O O
+about_about O O
+the_the O O
+information_information O O
+highlighted_highlight O O
+in_in B-movie.name B-movie.name
+orange_orange I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+director_director O O
+of_of O O
+the_the O O
+movie_movie O O
+platoon_platoon B-movie.name O
+EOS O O
+
+BOS O O
+show_show O O
+movies_movie O O
+directed_direct O O
+by_by O O
+the_the O O
+zucker_zucker B-director.name O
+brothers_brother I-director.name O
+EOS O O
+
+BOS O O
+movies_movie O O
+about_about O O
+zombies_zombie B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+watch_watch O O
+a_a O O
+comedy_comedy B-movie.genre B-movie.genre
+made_make O O
+in_in O O
+norway_norway B-country.name B-country.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+mpaa_mpaa B-rating.name O
+rating_rating O O
+for_for O O
+movie_movie O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+produced_produce O O
+by_by O O
+bruce_bruce B-producer.name B-producer.name
+lee_lee I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+scary_scary B-movie.genre B-movie.genre
+movies_movie O O
+EOS O O
+
+BOS O O
+are_be O O
+there_there O O
+any_any O O
+g_g B-rating.name B-rating.name
+movies_movie O O
+out_out O O
+there_there O O
+right_right O O
+now_now O B-movie.name
+EOS O O
+
+BOS O O
+michelle_Michelle B-actor.name O
+phifer_phifer I-actor.name O
+movie_movie O O
+list_list O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+has_have O O
+jerry_jerry B-producer.name O
+bruckheimer_bruckheimer I-producer.name O
+produced_produce O O
+EOS O O
+
+BOS O O
+where_where O O
+can_can O O
+i_i O O
+watch_watch O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+date_date O O
+omg_omg B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+all_all O O
+movies_movie O O
+made_make O O
+in_in O O
+twenty_twenty B-movie.release_date B-movie.release_date
+eleven_eleven I-movie.release_date I-movie.release_date
+with_with O O
+g_g B-rating.name B-rating.name
+rating_rating O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+pictures_picture O O
+of_of O O
+beautiful_beautiful O O
+men_man O B-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+revenue_revenue O O
+did_do O O
+bananas_banana B-movie.name B-movie.name
+make_make O O
+EOS O O
+
+BOS O O
+scary_scary O O
+movies_movie O O
+by_by O O
+this_this O O
+producer_producer O O
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+to_to O O
+know_know O O
+who_who O O
+produced_produce O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movies_movie O O
+in_in O O
+english_English B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+some_some O O
+pictures_picture O O
+of_of O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+get_get O O
+me_me O O
+movies_movie O O
+with_with O O
+chloe_Chloe B-actor.name B-movie.subject
+sevigny_Sevigny I-actor.name I-movie.subject
+EOS O O
+
+BOS O O
+how_how O O
+many_many O O
+films_film O O
+has_have O O
+taye_taye B-actor.name B-actor.name
+diggs_diggs I-actor.name I-actor.name
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+revenue_revenue O O
+did_do O O
+the_the B-movie.name B-movie.name
+avengers_avenger I-movie.name I-movie.name
+take_take O O
+it_it O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+see_see O O
+movies_movie O O
+about_about O O
+cars_car B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+feature_feature O O
+films_film O O
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+can_can O O
+i_i O O
+watch_watch O O
+the_the O O
+movie_movie O O
+the_the B-movie.name B-movie.name
+professional_professional I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+from_from O O
+england_england B-country.name B-country.name
+EOS O O
+
+BOS O O
+are_be O O
+there_there O O
+any_any O O
+movies_movie O O
+that_that O O
+have_have O O
+tips_tip B-movie.subject O
+about_about I-movie.subject O
+gardening_garden I-movie.subject O
+in_in O O
+them_them O O
+EOS O O
+
+BOS O O
+alberts_albert B-person.name B-person.name
+family_family O O
+EOS O O
+
+BOS O O
+which_which O O
+movies_movie O O
+are_be O O
+rated_rate O O
+r_r B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+tell_tell O O
+me_me O O
+the_the O O
+budget_budget O O
+for_for O O
+the_the O O
+movie_movie O O
+batman_batman B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+will_will B-actor.name B-actor.name
+ferrell_ferrell I-actor.name I-actor.name
+films_film O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+were_be O O
+released_release O O
+in_in O O
+2012_@card@ B-movie.release_date B-movie.release_date
+about_about O O
+ice_ice B-movie.subject B-movie.subject
+skating_skating I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+find_find O O
+action_action B-movie.genre B-movie.genre
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+company_company O O
+that_that O O
+produced_produce O O
+the_the O O
+movie_movie O O
+ants_ant B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+rating_rating O O
+for_for O O
+the_the B-movie.name O
+green_green I-movie.name O
+hornet_hornet I-movie.name O
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+interested_interested O O
+in_in O O
+finding_find O O
+out_out O O
+the_the O O
+budget_budget O O
+for_for O O
+cabin_cabin I-movie.name B-movie.name
+in_in I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+woods_wood I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+ray_ray B-director.name B-person.name
+stark_stark I-director.name I-director.name
+'s_'s O O
+current_current O O
+movie_movie O O
+he_he O O
+directed_direct O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+from_from O O
+new_new B-country.name O
+zealand_zealand I-country.name O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+with_with O O
+pg_pg B-rating.name B-rating.name
+ratings_rating O O
+only_only O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+martin_martin B-director.name B-director.name
+scorcese_scorcese I-director.name I-director.name
+'s_'s O O
+best_good O O
+movies_movie O O
+EOS O O
+
+BOS O O
+why_why O O
+is_be O O
+rated_rate O O
+g_g B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+find_find O O
+all_all O O
+details_detail O O
+of_of O O
+original_original O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+movies_movie O O
+directed_direct O O
+by_by O O
+r_r B-director.name B-director.name
+b_b I-director.name I-director.name
+choudary_choudary I-director.name I-movie.gross_revenue
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+see_see O O
+anne_anne B-actor.name B-actor.name
+hathaway_hathaway I-actor.name I-actor.name
+'s_'s O O
+latest_late O O
+movie_movie O O
+EOS O O
+
+BOS O O
+actors_actor O O
+considered_consider O O
+for_for O O
+new_new O O
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+elvis_elvis B-actor.name O
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+in_in O O
+the_the B-movie.location O
+usa_usa I-movie.location I-movie.location
+EOS O O
+
+BOS O O
+spanish_Spanish B-movie.language B-country.name
+movie_movie O O
+listing_listing O O
+EOS O O
+
+BOS O O
+where_where O O
+can_can O O
+i_i O O
+find_find O O
+information_information O O
+on_on O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+with_with O O
+pg-13_pg-13 B-rating.name B-rating.name
+only_only O O
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+in_in O O
+the_the O O
+movie_movie O O
+captain_captain B-movie.name B-movie.name
+america_america I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+have_have O O
+a_a O O
+list_list O O
+of_of O O
+producers_producer O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+see_see O O
+movies_movie O O
+that_that O O
+are_be O O
+rated_rate O O
+pg_pg B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+get_get O O
+hungarian_Hungarian B-country.name B-country.name
+films_film O O
+EOS O O
+
+BOS O O
+who_who O O
+stared_stare O O
+in_in O O
+i_i B-movie.name B-movie.name
+love_love I-movie.name I-movie.name
+lucy_lucy I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+get_get O O
+all_all O O
+the_the O O
+information_information O O
+about_about O O
+the_the O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+name_name O O
+the_the O O
+movies_movie O O
+clive_clive B-actor.name B-actor.name
+owen_owen I-actor.name I-actor.name
+has_have O O
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+r-rated_R-rated B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+please_please O O
+look_look O O
+up_up O O
+r_r B-rating.name B-rating.name
+rated_rate O O
+movies_movie O O
+EOS O O
+
+BOS O O
+search_search O O
+directors_director O O
+EOS O O
+
+BOS O O
+show_show O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+movie_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+were_be O O
+the_the O O
+production_production O O
+costs_cost O O
+for_for O O
+hotel_hotel B-movie.name B-movie.name
+transylvania_transylvania I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+see_see O O
+videos_video O O
+of_of O O
+will_will B-actor.name B-actor.name
+ferrell_ferrell I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+who_who O O
+was_be O O
+the_the B-character.name O
+tin_tin I-character.name O
+man_man I-character.name O
+in_in O O
+wizard_wizard B-movie.name O
+of_of I-movie.name O
+oz_Oz I-movie.name O
+EOS O O
+
+BOS O O
+name_name O O
+of_of O O
+company_company O O
+produced_produce O O
+forrest_forrest B-movie.name B-movie.name
+gump_gump I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+love_love O O
+to_to O O
+see_see O O
+some_some O O
+movies_movie O O
+produced_produce O O
+by_by O O
+the_the O O
+wb_wb B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+the_the O O
+titles_title O O
+of_of O O
+all_all O O
+the_the O O
+movies_movie O O
+that_that O O
+george_george B-producer.name B-producer.name
+lucas_lucas I-producer.name I-producer.name
+produced_produce O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+the_the O O
+total_total O O
+cost_cost O O
+of_of O O
+production_production O O
+for_for O O
+looper_looper B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+hope_hope O O
+this_this O O
+movie_movie O O
+is_be O O
+in_in O O
+english_English B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+list_list O O
+movies_movie O O
+directed_direct O O
+by_by O O
+james_james B-director.name B-director.name
+cameron_cameron I-director.name I-director.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+lionsgate_lionsgate B-producer.name B-producer.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+films_film O O
+are_be O O
+not_not B-movie.language O
+spoken_speak I-movie.language O
+in_in I-movie.language O
+english_English I-movie.language B-movie.language
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+looking_look O O
+for_for O O
+the_the O O
+information_information O O
+on_on O O
+the_the O O
+movie_movie O O
+pretty_pretty B-movie.name B-movie.name
+women_woman I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+money_money O O
+did_do O O
+pretty_pretty B-movie.name B-movie.name
+woman_woman I-movie.name I-movie.name
+take_take O O
+in_in O O
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+in_in O O
+picture_picture O O
+two_two O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+that_that O O
+star_star O O
+ed_editor B-actor.name B-actor.name
+harris_harris I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+search_search O O
+director_director O O
+of_of O O
+the_the B-movie.name B-movie.name
+exorcist_exorcist I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+know_know O O
+when_when O O
+the_the O O
+movie_movie O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+was_be O O
+released_release O O
+EOS O O
+
+BOS O O
+get_get O O
+info_info O O
+on_on O O
+lionsgate_lionsgate B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+director_director O O
+of_of O O
+the_the B-movie.name B-movie.name
+cabin_cabin I-movie.name I-movie.name
+in_in I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+woods_wood I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+country_country O O
+for_for O O
+the_the O O
+movie_movie O O
+thoda_thoda B-movie.name B-movie.name
+pyaar_pyaar I-movie.name I-movie.name
+thoda_thoda I-movie.name I-movie.name
+magic_magic I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+four_four I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+time_time B-movie.subject B-movie.subject
+travel_travel I-movie.subject I-movie.subject
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+earnings_earning O O
+for_for O O
+clint_clint B-director.name B-actor.name
+eastwood_eastwood I-director.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+who_who O O
+produces_produce O O
+steel_steel B-movie.name B-movie.name
+magnolias_magnolia I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+films_film O O
+from_from O O
+paramount_paramount B-producer.name B-producer.name
+that_that O O
+won_win O O
+oscars_oscar B-award.ceremony B-award.ceremony
+EOS O O
+
+BOS O O
+show_show O O
+other_other O O
+movies_movie O O
+similar_similar O O
+to_to O O
+this_this O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+find_find O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+made_make O O
+in_in O O
+japan_japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+the_the O O
+producers_producer O O
+for_for O O
+the_the O O
+movie_movie O O
+ants_ant B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+interested_interested O O
+in_in O O
+watching_watch O O
+a_a O O
+movie_movie O O
+in_in O O
+polish_polish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+the_the O O
+movie_movie O O
+in_in B-movie.name B-movie.name
+july_july I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+movie_movie O O
+actors_actor O O
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+movies_movie O O
+acted_act O O
+in_in O O
+spain_spain B-movie.location B-movie.location
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+tell_tell O O
+me_me O O
+more_more O O
+about_about O O
+the_the O O
+cast_cast O O
+and_and O O
+crew_crew O O
+of_of O O
+the_the O O
+movie_movie O O
+apollo_apollo B-movie.name B-movie.name
+thirteen_thirteen I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+year_year O O
+was_be O O
+the_the B-movie.name B-movie.name
+hobbit_hobbit I-movie.name I-movie.name
+relased_relased O I-movie.name
+EOS O O
+
+BOS O O
+when_when O O
+the_the O O
+movie_movie O O
+top_top B-movie.name B-movie.name
+gun_gun I-movie.name I-movie.name
+was_be O O
+released_release O O
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+see_see O O
+the_the B-movie.name B-movie.name
+lion_lion I-movie.name I-movie.name
+king_king I-movie.name I-movie.name
+'s_'s O O
+revenue_revenue O O
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+to_to O O
+know_know O O
+the_the O O
+genre_genre O O
+of_of O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+origin_origin O O
+of_of O O
+gone_go B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+wind_wind I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+tom_tom B-actor.name B-actor.name
+cruise_cruise I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+the_the O O
+actor_actor O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+list_list O O
+tom_tom B-actor.name B-actor.name
+hanks_hank I-actor.name I-actor.name
+movies_movie O O
+for_for O O
+me_me O O
+EOS O O
+
+BOS O O
+run_run O O
+a_a O O
+search_search O O
+for_for O O
+life_life B-movie.name B-movie.name
+is_be I-movie.name I-movie.name
+beautiful_beautiful I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+director_director O O
+of_of O O
+the_the O O
+hulk_hulk B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+difference_difference O O
+between_between O B-movie.release_date
+an_an O O
+r_r B-rating.name B-rating.name
+rating_rating O O
+and_and O O
+pg_pg B-rating.name B-rating.name
+thirteen_thirteen I-rating.name I-rating.name
+EOS O O
+
+BOS O O
+do_do O O
+you_you O O
+have_have O O
+dress_dress O O
+in_in O O
+stock_stock O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+the_the O O
+budget_budget O O
+for_for O O
+citizen_citizen B-movie.name O
+kane_kane I-movie.name O
+EOS O O
+
+BOS O O
+films_film O O
+produced_produce O O
+by_by O O
+twentieth_twentieth B-producer.name B-producer.name
+century_century I-producer.name I-producer.name
+fox_fox I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+roll_roll O O
+credits_credit O O
+for_for O O
+top_top B-movie.name B-movie.name
+gun_gun I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+starred_star O O
+in_in O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+language_language O O
+is_be O O
+the_the B-movie.name B-movie.name
+chaser_chaser I-movie.name I-movie.name
+in_in O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+did_do O O
+it_it O O
+cost_cost O O
+to_to O O
+make_make O O
+jurassic_Jurassic B-movie.name B-movie.name
+park_park I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+are_be O O
+any_any O O
+of_of O O
+these_these O O
+directors_director O O
+dead_dead O O
+EOS O O
+
+BOS O O
+detail_detail O O
+finding_finding B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+actors_actor O O
+in_in O O
+movies_movie O O
+EOS O O
+
+BOS O O
+was_be O O
+what_what O O
+tom_tom B-actor.name B-actor.name
+cruise_cruise I-actor.name I-actor.name
+'s_'s O O
+first_first O O
+movie_movie O O
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+watch_watch O O
+a_a O O
+german_german B-country.name B-country.name
+movie_movie O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+r_r B-rating.name B-rating.name
+rated_rate O O
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+directed_direct O O
+by_by O O
+eddie_eddie B-director.name B-director.name
+murphy_murphy I-director.name I-director.name
+EOS O O
+
+BOS O O
+what_what O O
+rating_rating O O
+is_be O O
+freedom_freedom B-movie.name B-movie.name
+writers_writer I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+sone_sone O O
+other_other O O
+movies_movie O O
+house_house B-movie.name B-movie.name
+at_at I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+end_end I-movie.name I-movie.name
+of_of I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+street_street I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+locate_locate O O
+movies_movie O O
+made_make O O
+in_in O O
+country_country B-country.name O
+EOS O O
+
+BOS O O
+check_check O O
+movie_movie O O
+in_in B-movie.name B-movie.name
+july_july I-movie.name I-movie.name
+information_information O O
+EOS O O
+
+BOS O O
+only_only O O
+mel_mel B-actor.name B-director.name
+gibson_gibson I-actor.name I-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+french_French B-country.name B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+does_do O O
+stephen_stephen B-person.name B-director.name
+spielberg_spielberg I-person.name I-director.name
+look_look O O
+like_like O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+produced_produce O O
+by_by O O
+mel_mel B-producer.name B-producer.name
+gibson_gibson I-producer.name I-director.name
+EOS O O
+
+BOS O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+movie_movie O O
+page_page O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+shrek_shrek B-movie.name B-movie.name
+'s_'s O O
+revenue_revenue O O
+EOS O O
+
+BOS O O
+where_where O O
+is_be O O
+movie_movie O O
+playing_playing O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+from_from O O
+france_france B-country.name B-country.name
+EOS O O
+
+BOS O O
+where_where O O
+did_do O O
+spielberg_spielberg B-person.name B-person.name
+go_go O O
+to_to O O
+school_school O O
+EOS O O
+
+BOS O O
+budget_budget O O
+for_for O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+movie_movie O O
+had_have O O
+katie_Katie B-actor.name B-actor.name
+holmes_Holmes I-actor.name I-actor.name
+and_and O O
+scott_Scott B-actor.name B-movie.star_rating
+wolf_wolf I-actor.name O
+in_in O O
+it_it O O
+EOS O O
+
+BOS O O
+how_how O O
+many_many O O
+minutes_minute O O
+is_be O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+to_to O O
+know_know O O
+the_the O O
+rating_rating O O
+of_of O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+does_do O O
+a_a O O
+pg_pg B-rating.name B-rating.name
+rating_rating O O
+mean_mean O O
+EOS O O
+
+BOS O O
+whos_whos O O
+idea_idea O O
+was_be O O
+it_it O O
+for_for O O
+kung_kung B-movie.name B-movie.name
+fo_fo I-movie.name I-movie.name
+panda_panda I-movie.name I-movie.name
+two_two O I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+has_have O O
+will_will B-actor.name B-actor.name
+ferrell_ferrell I-actor.name I-actor.name
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+the_the O O
+reviews_review O O
+for_for O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+produced_produce O O
+et_et B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+search_search O O
+mgm_mgm B-producer.name B-producer.name
+studios_studio I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+top_top O O
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+spielberg_spielberg B-director.name B-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+sort_sort O O
+in_in O O
+all_all O O
+japanese_Japanese B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+where_where O O
+was_be O O
+les_les B-movie.name B-movie.name
+mes_mes I-movie.name I-movie.name
+set_set O O
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+the_the O O
+revenue_revenue O O
+for_for O O
+pulp_pulp B-movie.name B-movie.name
+fiction_fiction I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+a_a O O
+movie_movie O O
+with_with O O
+mel_mel B-actor.name B-director.name
+gibson_gibson I-actor.name I-director.name
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+about_about O O
+gardening_gardening B-movie.subject B-movie.subject
+and_and I-movie.subject I-movie.subject
+lawn_lawn I-movie.subject O
+care_care I-movie.subject O
+EOS O O
+
+BOS O O
+hitchcock_hitchcock B-director.name B-director.name
+movie_movie O O
+list_list O O
+EOS O O
+
+BOS O O
+what_what O O
+'s_be O O
+the_the O O
+synopsis_synopsis O O
+of_of O O
+life_life B-movie.name B-movie.name
+is_be I-movie.name I-movie.name
+beatiful_beatiful O I-movie.name
+EOS O O
+
+BOS O O
+please_please O O
+find_find O O
+a_a O O
+movie_movie O O
+in_in O O
+mandarin_mandarin B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+movies_movie O O
+by_by O O
+mel_mel B-director.name B-director.name
+gibson_gibson I-director.name I-director.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+canadian_Canadian B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+actors_actor O O
+appeared_appear O O
+in_in O O
+the_the O O
+movie_movie O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+does_do O O
+a_a O O
+movie_movie O O
+have_have O O
+if_if O O
+it_it O O
+is_be O O
+rated_rate O O
+r_r B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+director_director O O
+of_of O O
+twilight_twilight B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+some_some O O
+movies_movie O O
+made_make O O
+in_in O O
+japan_japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+me_me O O
+details_detail O O
+about_about O O
+the_the O O
+movie_movie O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+from_from O O
+2000_@card@ B-movie.release_date B-movie.release_date
+about_about O O
+dogs_dog B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+get_get O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+current_current O O
+r-rated_R-rated B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+information_information O O
+for_for O O
+the_the O O
+movie_movie O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+play_play O O
+the_the O O
+trailer_trailer O O
+for_for O O
+the_the B-movie.name B-movie.name
+campaign_campaign I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+a_a O O
+pg-13_pg-13 B-rating.name B-rating.name
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+names_name O O
+of_of O O
+some_some O O
+famous_famous O O
+movies_movie O O
+in_in O O
+hindi_Hindi B-movie.language B-movie.language
+language_language I-movie.language I-movie.language
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+see_see O O
+will_will B-actor.name B-actor.name
+ferrell_ferrell I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+director_director O O
+EOS O O
+
+BOS O O
+star_star O O
+of_of O O
+twilight_twilight B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+columbia_columbia B-producer.name O
+production_production O O
+company_company O O
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+all_all O O
+the_the O O
+movies_movie O O
+produced_produce O O
+by_by O O
+william_William B-producer.name B-producer.name
+packer_packer I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+which_which O O
+country_country O O
+is_be O O
+this_this O O
+movie_movie O O
+from_from O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+genre_genre O O
+of_of O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+many_many O O
+movies_movie O O
+has_have O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+directed_direct O O
+EOS O O
+
+BOS O O
+what_what O O
+foreign_foreign O O
+language_language O O
+is_be O O
+spoken_speak O O
+in_in O O
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+producers_producer O O
+who_who O O
+work_work O O
+for_for O O
+miramax_miramax B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+expendables_expendable B-movie.name B-movie.name
+2_2 I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+who_who O O
+stars_star O O
+in_in O O
+in_in B-movie.name B-movie.name
+july_July I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+give_give O O
+me_me O O
+more_more O O
+information_information O O
+about_about O O
+charles_charles B-person.name B-person.name
+EOS O O
+
+BOS O O
+i_i O O
+am_be O O
+in_in O O
+the_the O O
+mood_mood O O
+for_for O O
+a_a O O
+horror_horror B-movie.genre B-movie.genre
+film_film O O
+EOS O O
+
+BOS O O
+look_look O O
+for_for O O
+information_information O O
+about_about O O
+parental_parental O O
+guidance_guidance O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+that_that O O
+are_be O O
+in_in O O
+spanish_Spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+search_search O O
+by_by O O
+producer_producer O O
+EOS O O
+
+BOS O O
+what_what O O
+does_do O O
+the_the O O
+flag_flag O O
+of_of O O
+vietnam_Vietnam B-country.name O
+look_look O O
+like_like O O
+EOS O O
+
+BOS O O
+find_find O O
+who_who O O
+guy_guy O O
+who_who O O
+was_be O O
+the_the O O
+red_red B-character.name O
+ranger_ranger I-character.name O
+in_in O O
+power_power B-movie.name O
+rangers_ranger I-movie.name O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+money_money O O
+did_do O O
+they_they O O
+spend_spend O O
+to_to O O
+make_make O O
+finding_find B-movie.name B-movie.name
+nemo_nemo I-movie.name I-movie.name
+in_in I-movie.name O
+3d_3d I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+actors_actor O O
+played_play O O
+in_in O O
+the_the O O
+movies_movie O O
+hitch_hitch B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+types_type O O
+of_of O O
+movies_movie O O
+are_be O O
+there_there O O
+EOS O O
+
+BOS O O
+where_where O O
+is_be O O
+japan_japan B-country.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+mission_mission B-movie.name B-movie.name
+impossible_impossible I-movie.name I-movie.name
+in_in O O
+spanish_Spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+how_how O O
+many_many O O
+people_people O O
+live_live O O
+in_in O O
+japan_japan B-country.name B-country.name
+EOS O O
+
+BOS O O
+who_who O O
+produce_produce O O
+the_the O O
+avatar_avatar B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+please_please O O
+look_look O O
+up_up O O
+and_and O O
+alfred_alfred B-producer.name B-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+show_show O O
+me_me O O
+movies_movie O O
+starring_star O O
+denzel_denzel B-actor.name B-actor.name
+washington_washington I-actor.name I-actor.name
+please_please O O
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+know_know O O
+in_in O O
+detail_detail O O
+about_about O O
+the_the O O
+film_film O O
+career_career O O
+of_of O O
+indian_Indian B-actor.nationality B-actor.nationality
+actor_actor O O
+dilip_dilip B-actor.name B-actor.name
+kumar_kumar I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+grease_grease B-movie.name B-movie.name
+rated_rate O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+have_have O O
+been_be O O
+made_make O O
+in_in O O
+the_the B-country.name O
+united_unite I-country.name B-country.name
+states_state I-country.name I-country.name
+EOS O O
+
+BOS O O
+richard_richard B-producer.name B-person.name
+lester_lester I-producer.name I-person.name
+produced_produce O O
+what_what O O
+other_other O O
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+other_other O O
+movies_movie O O
+has_have O O
+will_will B-director.name B-director.name
+smith_smith I-director.name I-director.name
+directed_direct O O
+EOS O O
+
+BOS O O
+find_find O O
+me_me O O
+dreamworks_dreamworks B-producer.name B-producer.name
+films_film O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+the_the O O
+movie_movie O O
+heroine_heroine B-movie.name O
+released_release O O
+EOS O O
+
+BOS O O
+list_list O O
+the_the O O
+actors_actor O O
+in_in O O
+forager_forager B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+'m_be O O
+looking_look O O
+for_for O O
+a_a O O
+jason_Jason B-director.name O
+cortlund_cortlund I-director.name O
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+movies_movie O O
+directed_direct O O
+by_by O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movie_movie O O
+gilda_gilda B-movie.name B-movie.name
+by_by O O
+charles_charles B-director.name B-director.name
+vidor_vidor I-director.name I-director.name
+EOS O O
+
+BOS O O
+show_show O O
+brad_brad B-actor.name B-actor.name
+pitt_pitt I-actor.name I-actor.name
+movies_movie O O
+nominated_nominate O O
+for_for O O
+oscars_oscar B-award.ceremony B-producer.name
+EOS O O
+
+BOS O O
+looking_look O O
+for_for O O
+a_a O O
+musical_musical B-movie.genre B-movie.genre
+movie_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+all_all O O
+r_r B-rating.name B-rating.name
+movies_movie O O
+for_for O O
+twenty_twenty B-movie.release_date B-movie.release_date
+eleven_eleven I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+show_show O O
+nc_nc B-rating.name B-rating.name
+seventeen_seventeen B-rating.name I-rating.name
+movies_movie O O
+for_for O O
+twenty_twenty B-movie.release_date B-movie.release_date
+eleven_eleven I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+when_when O O
+did_do O O
+theaters_theater O O
+show_show O O
+resident_resident B-movie.name B-movie.name
+evil_evil I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movies_movie O O
+from_from O O
+germany_germany B-country.name B-country.name
+EOS O O
+
+BOS O O
+search_search O O
+twentieth_twentieth B-producer.name B-producer.name
+century_century I-producer.name I-producer.name
+fox_fox I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+find_find O O
+actors_actor O O
+EOS O O
+
+BOS O O
+please_please O O
+run_run O O
+a_a O O
+search_search O O
+on_on O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+and_and O O
+display_display O O
+all_all O O
+info_info O O
+returned_return O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+director_director O O
+of_of O O
+forest_forest B-movie.name B-movie.name
+gump_gump I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+results_result O O
+for_for O O
+gardening_garden B-movie.subject B-movie.name
+movies_movie O O
+EOS O O
+
+BOS O O
+please_please O O
+find_find O O
+what_what O O
+language_language O O
+the_the B-movie.name O
+chaser_chaser I-movie.name B-movie.name
+is_be O O
+in_in O O
+EOS O O
+
+BOS O O
+what_what O O
+films_film O O
+has_have O O
+japan_japan B-country.name B-movie.subject
+made_make O O
+this_this B-movie.release_date B-movie.release_date
+year_year I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+kindly_kindly O O
+show_show O O
+me_me O O
+the_the O O
+revenue_revenue O O
+for_for O O
+cabin_cabin I-movie.name I-movie.name
+in_in I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+woods_wood I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+scifi_scifi B-movie.genre B-movie.genre
+fantasy_fantasy B-movie.genre O
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+genre_genre O O
+for_for O O
+the_the B-movie.name O
+patriot_patriot I-movie.name O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+that_that O O
+are_be O O
+rated_rate O O
+pg_pg B-rating.name B-rating.name
+thirteen_thirteen I-rating.name I-rating.name
+EOS O O
+
+BOS O O
+look_look O O
+up_up O O
+movies_movie O O
+with_with O O
+a_a O O
+g_g B-rating.name B-rating.name
+rating_rating O O
+EOS O O
+
+BOS O O
+list_list O O
+the_the O O
+hindi_Hindi B-movie.language B-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+pull_pull O O
+up_up O O
+photos_photo O O
+of_of O O
+sexy_sexy O B-movie.name
+women_woman O I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+produced_produce O O
+by_by O O
+stephen_stephen B-producer.name B-producer.name
+spielberg_spielberg I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+with_with O O
+an_an O O
+r_r B-rating.name B-rating.name
+rating_rating O O
+EOS O O
+
+BOS O O
+unique_unique O O
+cars_car O B-movie.name
+EOS O O
+
+BOS O O
+which_which O O
+movies_movie O O
+filmed_film O O
+in_in O O
+asia_asia B-movie.location O
+won_win O O
+academy_academy B-award.ceremony B-movie.subject
+awards_award I-award.ceremony O
+EOS O O
+
+BOS O O
+watch_watch O O
+pg_pg B-rating.name B-rating.name
+and_and O O
+g_g B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+how_how O O
+much_much O O
+was_be O O
+it_it O O
+to_to O O
+make_make O O
+the_the O O
+film_film O O
+batman_batman B-movie.name B-movie.name
+begins_begin I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+'d_will O O
+like_like O O
+to_to O O
+see_see O O
+the_the O O
+film_film O O
+that_that O O
+made_make O O
+over_over B-movie.gross_revenue B-movie.gross_revenue
+twenty_twenty I-movie.gross_revenue I-movie.gross_revenue
+million_million I-movie.gross_revenue I-movie.gross_revenue
+dollars_dollar I-movie.gross_revenue I-movie.gross_revenue
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+have_have O O
+hotel_hotel B-movie.name B-movie.name
+transylvania_transylvania I-movie.name I-movie.name
+three_three I-movie.name O
+d_d I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+starred_star O O
+in_in O O
+the_the B-movie.name B-movie.name
+parent_parent I-movie.name I-movie.name
+trap_trap I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movies_movie O O
+that_that O O
+have_have O O
+comedy_comedy B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+recent_recent O O
+movies_movie O O
+from_from O O
+lionsgate_lionsgate B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+the_the O O
+russian_Russian B-country.name B-country.name
+films_film O O
+for_for O O
+twenty_twenty B-movie.release_date B-movie.release_date
+twelve_twelve I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+total_total O O
+titanic_titanic B-movie.name B-movie.name
+revenues_revenue O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+movies_movie O O
+that_that O O
+james_james B-producer.name B-director.name
+cameron_cameron I-producer.name I-director.name
+has_have O O
+produced_produce O O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+about_about O O
+dogs_dog I-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+why_why O O
+is_be O O
+this_this O O
+movie_movie O O
+rated_rate O O
+pg_pg B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+by_by O O
+twentieth_twentieth B-producer.name B-producer.name
+century_century I-producer.name I-producer.name
+fox_fox I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+find_find O O
+dreamworks_dreamworks B-producer.name B-producer.name
+movies_movie O O
+from_from O O
+twenty_twenty B-movie.release_date B-movie.release_date
+ten_ten I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+i_i O O
+would_would O O
+like_like O O
+to_to O O
+search_search O O
+for_for O O
+movies_movie O O
+directed_direct O O
+by_by O O
+stephen_stephen B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+EOS O O
+
+BOS O O
+find_find O O
+spike_spike B-director.name B-producer.name
+lee_lee I-director.name I-producer.name
+directed_directed O O
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+the_the O O
+new_new O O
+will_will B-actor.name B-person.name
+ferrell_ferrell I-actor.name I-person.name
+movie_movie O O
+EOS O O
+
+BOS O O
+who_who O O
+directed_direct O O
+gilda_gilda B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+please_please O O
+provide_provide O O
+movies_movie O O
+directed_direct O O
+by_by O O
+oliver_olive B-director.name B-director.name
+stone_stone I-director.name I-director.name
+EOS O O
+
+BOS O O
+reviews_review O O
+of_of O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+four_four I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+do_do O O
+the_the O O
+actors_actor O O
+speak_speak O O
+EOS O O
+
+BOS O O
+when_when O O
+will_will O O
+the_the B-movie.name B-movie.name
+great_great I-movie.name I-movie.name
+gatsby_gatsby I-movie.name I-movie.name
+be_be O O
+out_out O O
+EOS O O
+
+BOS O O
+how_how O O
+old_old O O
+do_do O O
+you_you O O
+need_need O O
+to_to O O
+be_be O O
+to_to O O
+watch_watch O O
+r_r B-rating.name B-rating.name
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+the_the O O
+rating_rating O O
+of_of O O
+the_the O O
+movie_movie O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+rating_rating O O
+for_for O O
+the_the O O
+movie_movie O O
+EOS O O
+
+BOS O O
+searching_search O O
+for_for O O
+movie_movie O O
+prices_price O O
+please_please O O
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+produced_produce O O
+by_by O O
+ray_ray B-producer.name B-producer.name
+stark_stark I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+angelina_angelina B-actor.name B-actor.name
+jolie_jolie I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+angelina_angelina B-actor.name B-actor.name
+jolie_jolie I-actor.name I-actor.name
+movies_movie O O
+EOS O O
+
+BOS O O
+find_find O O
+me_me O O
+films_film O O
+produced_produce O O
+by_by O O
+drew_draw B-producer.name O
+barrymore_barrymore I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+when_when O O
+did_do O O
+the_the O O
+movie_movie O O
+avatar_avatar B-movie.name B-movie.name
+get_get O O
+released_release O O
+EOS O O
+
+BOS O O
+search_search O O
+for_for O O
+actors_actor O O
+EOS O O
+
+BOS O O
+show_show O O
+french_French B-movie.language B-movie.language
+comedy_comedy B-movie.genre B-movie.genre
+films_film O O
+EOS O O
+
+BOS O O
+information_information O O
+about_about O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+made_make O O
+in_in O O
+south_south B-country.name B-country.name
+africa_africa I-country.name I-country.name
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+information_information O O
+about_about O O
+parental_parental O O
+guidance_guidance O O
+ratings_rating O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+in_in O O
+the_the O O
+theatre_theatre O O
+EOS O O
+
+BOS O O
+who_who O O
+are_be O O
+these_these O O
+directors_director O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+the_the O O
+name_name O O
+of_of O O
+the_the B-character.name B-movie.name
+mom_mom I-character.name I-movie.name
+on_on O I-movie.name
+seinfeld_seinfeld B-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+watch_watch O O
+movies_movie O O
+with_with O O
+tom_tom B-actor.name B-actor.name
+hanks_hank I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+can_can O O
+i_i O O
+see_see O O
+a_a O O
+list_list O O
+of_of O O
+movie_movie O O
+genres_genre O O
+EOS O O
+
+BOS O O
+show_show O O
+information_information O O
+in_in O O
+english_English B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+what_what O O
+has_have O O
+person_person O O
+directed_direct O O
+EOS O O
+
+BOS O O
+space_space B-movie.subject O
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+female_female O O
+played_play O O
+as_as O O
+number_number B-character.name O
+13_@card@ I-character.name O
+in_in O O
+the_the O O
+tv_tv O O
+show_show O O
+house_house B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+directed_direct O O
+by_by O O
+sergio_sergio B-director.name B-director.name
+leone_leone I-director.name I-director.name
+EOS O O
+
+BOS O O
+revenue_revenue O O
+for_for O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+list_list O O
+date_date O O
+for_for O O
+omg_omg B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+kristen_kristen B-actor.name B-actor.name
+stewart_stewart I-actor.name I-actor.name
+has_have O O
+been_be O O
+in_in O O
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+give_give O O
+me_me O O
+the_the O O
+revenue_revenue O O
+of_of O O
+the_the O O
+movie_movie O O
+titanic_titanic B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+list_list O O
+all_all O O
+steven_steven B-director.name B-director.name
+spielberg_spielberg I-director.name I-director.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+did_do O O
+et_et B-movie.name B-movie.name
+gross_gross O O
+EOS O O
+
+BOS O O
+when_when O O
+was_be O O
+while_while B-movie.name B-movie.name
+you_you I-movie.name I-movie.name
+were_be I-movie.name I-movie.name
+sleeping_sleep I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+movies_movie O O
+about_about O O
+zombies_zombie B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+what_what O O
+does_do O O
+the_the O O
+flag_flag O O
+of_of O O
+japan_japan B-country.name B-country.name
+look_look O O
+like_like O O
+EOS O O
+
+BOS O O
+please_please O O
+tell_tell O O
+me_me O O
+when_when O O
+was_be O O
+the_the O O
+movie_movie O O
+gone_go B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+wind_wind I-movie.name I-movie.name
+released_release O O
+EOS O O
+
+BOS O O
+did_do O O
+the_the O O
+avatar_avatar B-movie.name B-movie.name
+movie_movie O O
+have_have O O
+a_a O O
+budget_budget O O
+for_for O O
+spending_spending O B-movie.name
+EOS O O
+
+BOS O O
+biography_biography O O
+for_for O O
+will_will B-person.name B-person.name
+ferrell_ferrell I-person.name I-person.name
+EOS O O
+
+BOS O O
+who_who O O
+produces_produce O O
+for_for O O
+fox_fox B-producer.name B-producer.name
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+did_do O O
+the_the O O
+nine_nine B-movie.release_date B-movie.release_date
+fourteen_fourteen I-movie.release_date I-movie.release_date
+twenty_twenty I-movie.release_date I-movie.release_date
+twelve_twelve I-movie.release_date I-movie.release_date
+release_release O O
+of_of O O
+barfi_barfi B-movie.name B-movie.name
+come_come O O
+from_from O O
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+did_do O O
+shindler_shindler B-movie.name B-movie.name
+'s_'s I-movie.name O
+list_list I-movie.name O
+come_come O O
+from_from O O
+EOS O O
+
+BOS O O
+where_where O O
+was_be O O
+les_les B-movie.name B-movie.name
+mes_mes I-movie.name I-movie.name
+made_make O I-movie.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+know_know O O
+when_when O O
+step_step B-movie.name B-movie.name
+up_up I-movie.name I-movie.name
+was_be O O
+released_release O O
+EOS O O
+
+BOS O O
+gilda_gilda B-movie.name B-movie.name
+charles_charles B-director.name B-director.name
+vidor_vidor I-director.name I-director.name
+EOS O O
+
+BOS O O
+what_what O O
+year_year O O
+was_be O O
+ed_edited B-actor.name B-actor.name
+harris_harris I-actor.name I-actor.name
+in_in O O
+in_in O O
+apollo_apollo B-movie.name B-movie.name
+thirteen_thirteen I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+information_information O O
+on_on O O
+dirty_dirty B-movie.name B-movie.name
+dancing_dancing I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+films_film O O
+made_make O O
+by_by O O
+the_the O O
+company_company O O
+searchlight_searchlight B-producer.name B-producer.name
+films_film I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+is_be O O
+toy_toy B-movie.name O
+story_story I-movie.name O
+family_family O B-rating.name
+friendly_friendly O I-rating.name
+EOS O O
+
+BOS O O
+show_show O O
+only_only O O
+movies_movie O O
+that_that O O
+are_be O O
+in_in O O
+french_French B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+were_be O O
+released_release O O
+nine_nine B-movie.release_date O
+fourteen_fourteen I-movie.release_date B-movie.release_date
+twelve_twelve I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+english_English B-movie.language B-movie.language
+movie_movie O O
+list_list O O
+EOS O O
+
+BOS O O
+twilight_twilight B-movie.name B-movie.name
+was_be O O
+directed_direct O O
+by_by O O
+whom_whom O O
+EOS O O
+
+BOS O O
+what_what O O
+films_film O O
+deal_deal O O
+with_with O O
+immigrants_immigrant B-movie.subject O
+in_in I-movie.subject O
+america_america I-movie.subject B-country.name
+EOS O O
+
+BOS O O
+parental_parental O O
+guidance_guidance O O
+scale_scale O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+flags_flag O O
+of_of O O
+the_the O O
+world_world O O
+EOS O O
+
+BOS O O
+give_give O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+movies_movie O O
+the_the O O
+deal_deal O O
+with_with O O
+the_the O O
+topic_topic O O
+of_of O O
+healthy_healthy B-movie.subject B-movie.subject
+eating_eating I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+show_show O O
+all_all O O
+british_British B-country.name B-country.name
+movies_movie O O
+from_from O O
+two_two B-movie.release_date O
+thousand_thousand I-movie.release_date O
+one_one I-movie.release_date O
+EOS O O
+
+BOS O O
+what_what O O
+production_production O O
+company_company O O
+was_be O O
+responsible_responsible O O
+for_for O O
+the_the O O
+film_film O O
+the_the B-movie.name B-movie.name
+devil_devil I-movie.name I-movie.name
+wears_wear I-movie.name I-movie.name
+prada_prada I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+rating_rating O O
+for_for O O
+the_the O O
+movie_movie O O
+the_the B-movie.name O
+expendables_expendable I-movie.name B-movie.name
+2_2 I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+directed_direct O O
+by_by O O
+james_james B-director.name B-director.name
+cameron_cameron I-director.name I-director.name
+EOS O O
+
+BOS O O
+are_be O O
+there_there O O
+movies_movie O O
+not_not O O
+rated_rate O O
+g_g B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+the_the O O
+logos_logo O O
+for_for O O
+popular_popular O O
+production_production O O
+companies_company O O
+EOS O O
+
+BOS O O
+select_select O O
+the_the O O
+option_option O O
+to_to O O
+search_search O O
+for_for O O
+movies_movie O O
+produced_produce O O
+by_by O O
+stephen_stephen B-producer.name B-producer.name
+spielberg_spielberg I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+i_i O O
+want_want O O
+to_to O O
+search_search O O
+for_for O O
+pg_pg B-rating.name B-rating.name
+rated_rate O O
+movies_movie O O
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+some_some O O
+movies_movie O O
+that_that O O
+were_be O O
+produced_produce O O
+in_in O O
+europe_europe B-country.name B-country.name
+EOS O O
+
+BOS O O
+what_what O O
+country_country O O
+is_be O O
+in_in B-movie.name O
+the_the I-movie.name O
+land_land I-movie.name B-movie.name
+of_of I-movie.name I-movie.name
+blood_blood I-movie.name I-movie.name
+and_and I-movie.name I-movie.name
+honey_honey I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+spanish_Spanish B-movie.language B-movie.language
+language_language I-movie.language I-movie.language
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+revenue_revenue O O
+created_create O O
+by_by O O
+the_the B-movie.name O
+expendables_expendable I-movie.name O
+EOS O O
+
+BOS O O
+i_i O O
+need_need O O
+to_to O O
+know_know O O
+the_the O O
+name_name O O
+of_of O O
+the_the B-character.name B-movie.name
+mom_mom I-character.name I-movie.name
+on_on O I-movie.name
+seinfeld_seinfeld B-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+a_a O O
+movie_movie O O
+about_about O O
+apartheid_apartheid B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+star_star O O
+of_of O O
+troy_troy B-movie.name O
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+in_in O O
+spanish_Spanish B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+find_find O O
+ms._ms. B-movie.name B-movie.name
+congeniality_congeniality I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+all_all O O
+videos_video O O
+of_of O O
+will_will B-actor.name B-actor.name
+ferrell_ferrell I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+will_will B-actor.name B-actor.name
+ferrell_Ferrell I-actor.name I-actor.name
+films_film O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+revenue_revenue O O
+created_create O O
+by_by O O
+ghost_ghost B-movie.name B-movie.name
+rider_rider I-movie.name I-movie.name
+spirit_spirit I-movie.name I-movie.name
+of_of I-movie.name O
+vengeance_vengeance I-movie.name O
+EOS O O
+
+BOS O O
+what_what O O
+has_have O O
+will_will B-actor.name B-director.name
+ferrell_ferrell I-actor.name I-actor.name
+done_do O O
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+the_the O O
+reviews_review O O
+for_for O O
+in_in B-movie.name B-movie.name
+july_July I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what_what O O
+was_be O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+'s_'s O O
+revenue_revenue O O
+EOS O O
+
+BOS O O
+release_release O O
+date_date O O
+for_for O O
+toy_toy B-movie.name B-movie.name
+story_story I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get_get O O
+me_me O O
+the_the O O
+names_name O O
+of_of O O
+movies_movie O O
+about_about O O
+sports_sport B-movie.subject B-movie.subject
+figures_figure I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+what_what O O
+available_available O O
+movies_movie O O
+are_be O O
+rated_rate O O
+g_g B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+have_have O O
+brad_brad B-actor.name B-actor.name
+pitt_pitt I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+information_information O O
+on_on O O
+julia_julia B-person.name O
+roberts_roberts I-person.name O
+EOS O O
+
+BOS O O
+show_show O O
+who_who O O
+produced_produce O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+funny_funny B-movie.genre B-movie.genre
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+movies_movie O O
+made_make O O
+in_in O O
+england_england B-country.name B-country.name
+EOS O O
+
+BOS O O
+who_who O O
+produced_produce O O
+star_star B-movie.name B-movie.name
+wars_war I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who_who O O
+is_be O O
+in_in O O
+picture_picture O O
+one_one O O
+EOS O O
+
+BOS O O
+what_what O O
+movies_movie O O
+has_have O O
+alfred_alfred B-director.name B-director.name
+hitchcock_hitchcock I-director.name I-director.name
+directed_direct O O
+EOS O O
+
+BOS O O
+what_what O O
+is_be O O
+the_the O O
+realase_realase O O
+date_date O O
+for_for O O
+harry_harry B-movie.name B-movie.name
+potter_potter I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can_can O O
+you_you O O
+give_give O O
+me_me O O
+names_name O O
+of_of O O
+some_some O O
+movies_movie O O
+having_have O O
+pg_pg B-rating.name B-rating.name
+thirteen_thirteen I-rating.name I-rating.name
+rating_rating O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+name_name O O
+of_of O O
+the_the O O
+country_country O O
+from_from O O
+which_which O O
+the_the O O
+movie_movie O O
+kati_kati B-movie.name B-movie.name
+patang_patang I-movie.name I-movie.name
+comes_come O O
+EOS O O
+
+BOS O O
+find_find O O
+the_the O O
+producer_producer O O
+of_of O O
+the_the B-movie.name B-movie.name
+godfather_godfather I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find_find O O
+movies_movie O O
+filmed_film O O
+in_in O O
+canada_canada B-country.name B-country.name
+EOS O O
+
+BOS O O
+how_how O O
+will_will O O
+i_i O O
+know_know O O
+when_when O O
+the_the O O
+movie_movie O O
+gone_go B-movie.name B-movie.name
+with_with I-movie.name I-movie.name
+the_the I-movie.name I-movie.name
+wind_wind I-movie.name I-movie.name
+will_will O O
+be_be O O
+released_release O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+the_the O O
+little_little B-character.name B-movie.name
+girl_girl I-character.name I-character.name
+from_from O O
+full_full B-movie.name B-movie.name
+house_house I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how_how O O
+old_old O O
+for_for O O
+black_black B-movie.name B-movie.name
+swan_swan I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+all_all O O
+movies_movie O O
+produced_produce O O
+by_by O O
+ray_ray B-producer.name B-producer.name
+stark_stark I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what_what O O
+are_be O O
+some_some O O
+good_good O O
+american_American B-country.name B-country.name
+movies_movie O O
+EOS O O
+
+BOS O O
+show_show O O
+me_me O O
+a_a O O
+list_list O O
+of_of O O
+all_all O O
+movies_movie O O
+made_make O O
+in_in O O
+the_the B-country.name O
+united_unite I-country.name B-country.name
+states_state I-country.name I-country.name
+EOS O O
+
